@@ -1,3 +1,5 @@
+package DomZadanieTwo;
+
 import java.util.Arrays;
 
 public class Ten {
