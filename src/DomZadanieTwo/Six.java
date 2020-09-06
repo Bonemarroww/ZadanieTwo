@@ -1,3 +1,5 @@
+package DomZadanieTwo;
+
 import java.util.Scanner;
 
 public class Six {
